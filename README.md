@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/asur_stark" target="blank"><img src="https://img.shields.io/twitter/follow/asur_stark?logo=twitter&style=for-the-badge" alt="asur_stark" /></a> </p>
 
-- 🔭 I’m currently working on [Virtual Reality](https://docs.unity3d.com/540/Documentation/Manual/VROverview.html#:~:text=Enabling%20Unity%20VR%20support,this%20for%20each%20build%20target.)
+- 🔭 I’m currently working on [Angular](https://docs.unity3d.com/540/Documentation/Manual/VROverview.html#:~:text=Enabling%20Unity%20VR%20support,this%20for%20each%20build%20target.)
  
 - 📄 I Attended [XROS](https://xrosfellowship.ficci.in/) Fellowship Programme 2022.
 
@@ -19,13 +19,11 @@
 
 - 🤝 I’m looking for help with **CyberSecurity**
 
-- 📝 I write articles on [https://monthlywrap.blogspot.com/2022/02/augmented-reality.html](https://monthlywrap.blogspot.com/2022/02/augmented-reality.html)
-
 - 💬 Ask me about **Augmented Reality**
 
-- 📫 How to reach me **shubhankdwivedi1008@gmail.com**
+- 📫 How to reach me **skg2002007@gmail.com**
 
-- ⚡ Fun Fact!! I am also a **Youtuber!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
