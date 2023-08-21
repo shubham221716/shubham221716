@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on [Angular](https://docs.unity3d.com/540/Documentation/Manual/VROverview.html#:~:text=Enabling%20Unity%20VR%20support,this%20for%20each%20build%20target.)
  
-- 📄 I Attended [XROS](https://xrosfellowship.ficci.in/) Fellowship Programme 2022.
 
 - 🌱 I’m currently learning **Data Structures**
 
@@ -27,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Agyaat_awara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agyaat_awara" height="30" width="40" /></a>
+<a href="https://twitter.com/_shubh_45_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhank-dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhank-dwivedi" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCPwTIAJIKKF5ZJmxc6fdrgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubhank dwivedi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/asur_stark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asur_stark" height="30" width="40" /></a>
