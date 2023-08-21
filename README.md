@@ -12,12 +12,10 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 👯 I’m looking to collaborate on **3-D Designing**
-
 - 🤝 I’m looking for help with **CyberSecurity**
 
-- 💬 Ask me about **Augmented Reality**
-
+- 👯 Have a look on my [Portfolio]   (https://shubh45.netlify.app/)
+  
 - 📫 How to reach me **skg2002007@gmail.com**
 
 
