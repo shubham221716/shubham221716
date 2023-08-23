@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shubham Gupta</h1>
+<h1 align="center">Hi 👋, I'm Shubham Kumar Gupta</h1>
 <h3 align="center">Web Developer</h3>
 
 
@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **Cab booking Apk**
+- 🔭 I’m currently working on **Cab Booking Apk**
 
 - 🌱 I’m currently learning **Angular**
 
