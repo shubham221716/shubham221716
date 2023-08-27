@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **skg2002007@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IvCsZ2LP-m-rNVIv-z8h5Q083bqDFMRG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X4UG22DenAu_3aqLplzS83m1qEDF8bsr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
