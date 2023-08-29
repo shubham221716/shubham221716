@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 🤝 I’m looking for help with **Backend development.**
+- 🤝 I’m looking for help with **Backend development**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://shubh45.netlify.app/)
 
