@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Cab Booking Apk**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Backend development**
 
