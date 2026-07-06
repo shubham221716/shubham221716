@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Gupta</h1>
-<h3 align="center">DevOps Engineer · Cloud Infrastructure · CI/CD Specialist</h3>
+<h3 align="center">DevOps Engineer · Cloud Infrastructure </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubham221716&label=Profile%20views&color=0e75b6&style=flat" alt="shubham221716" />
