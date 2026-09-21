@@ -22,7 +22,7 @@
 
 ```yaml
 name: Shubham Kumar Gupta
-role: Assistant System Engineer (Cloud)
+role: Cloud Engineer
 company: Tata Consultancy Services (TCS)
 location: Varanasi, Uttar Pradesh, India
 education: B.Tech — CSE (KIET, AKTU) | 2020–2024
@@ -99,7 +99,7 @@ fun_fact: "I automate things so I can be lazy efficiently 😄"
 </td>
 <td>
 
-### Assistant System Engineer (DevOps) — TCS
+### Cloud Engineer — TCS
 📍 Varanasi, UP
 
 - Built & optimized **CI/CD pipelines** using Jenkins & GitHub — enabled daily automated releases, **cut deployment time by 40%**
@@ -278,17 +278,6 @@ Publicly hosted business website with **service listings, contact forms**, and f
 </div>
 
 ---
-
-<div align="center">
-
-<!-- Snake Contribution Animation — auto-generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=120&section=footer" />
