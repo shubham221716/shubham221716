@@ -242,7 +242,7 @@ Publicly hosted business website with **service listings, contact forms**, and f
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham221716&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham221716&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -312,12 +312,16 @@ Publicly hosted business website with **service listings, contact forms**, and f
 
 <div align="center">
 
-<!-- Snake Animation -->
+<!-- Snake Animation — requires GitHub Actions workflow (see .github/workflows/snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
 </picture>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubham221716&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&layout=compact" alt="Coding Activity" />
 
 </div>
 
