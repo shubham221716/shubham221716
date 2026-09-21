@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=220&section=header&text=Shubham%20Kumar%20Gupta&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=220&section=header&text=Shubham%20Kumar%20Gupta&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Cloud%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -13,17 +13,6 @@
 <img src="https://komarev.com/ghpvc/?username=shubham221716&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://shubh45.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-&nbsp;
-<a href="mailto:skg2002007@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
-
-<br/><br/>
-
-<!-- Social Badges Row -->
-<a href="https://linkedin.com/in/shubh45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/shubh_45_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://github.com/shubham221716"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-<a href="https://www.leetcode.com/shubh_45_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
-<a href="https://www.codechef.com/users/shubham221716"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 
 </div>
 
@@ -33,7 +22,7 @@
 
 ```yaml
 name: Shubham Kumar Gupta
-role: Assistant System Engineer (DevOps)
+role: Assistant System Engineer (Cloud)
 company: Tata Consultancy Services (TCS)
 location: Varanasi, Uttar Pradesh, India
 education: B.Tech — CSE (KIET, AKTU) | 2020–2024
@@ -49,7 +38,7 @@ fun_fact: "I automate things so I can be lazy efficiently 😄"
 
 ### 💼 What I Do
 
-- 🏢 **DevOps Engineer @ TCS** — Building production-grade infrastructure
+- 🏢 **Cloud Engineer @ TCS** — Building production-grade infrastructure
 - 🚀 **Reduced deployment time by 40%** with Jenkins & GitHub CI/CD pipelines
 - ☁️ **Cut AWS provisioning from 2hrs → 15 min** using Terraform (EC2, S3, IAM, VPC)
 - 🐳 **Eliminated 60% manual effort** through Docker-to-EC2 pipeline automation
@@ -266,7 +255,7 @@ Publicly hosted business website with **service listings, contact forms**, and f
 | ⭐ | **CodeChef 2-Star Coder** | Max Rating 1443 · Silver Badge · 30+ programming contests |
 | 🎓 | **AWS Academy Cloud Foundations** | Certified by AWS Academy |
 | 🐳 | **Docker for DevOps** | Udemy Certified — Containerization, Compose, Deployment |
-| 🏢 | **TCS — DevOps Engineer** | Production CI/CD, Terraform IaC, Docker on AWS |
+| 🏢 | **TCS — Cloud Engineer** | Production CI/CD, Terraform IaC, Docker on AWS |
 | 🌐 | **Groveus Informatics** | Web Development · PHP · SEO Optimization |
 
 </div>
@@ -285,14 +274,6 @@ Publicly hosted business website with **service listings, contact forms**, and f
 <a href="https://www.hackerrank.com/shubh_45_"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>&nbsp;
 <a href="https://shubh45.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="mailto:skg2002007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-> *"Open to DevOps, Cloud Engineering, and Full-Stack roles — available remotely or on-site."*
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
