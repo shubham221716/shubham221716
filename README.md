@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=220&section=header&text=Shubham%20Kumar%20Gupta&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Cloud%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=620&lines=Building+Scalable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Deployments+with+CI%2FCD+%F0%9F%94%84;Containerizing+Apps+with+Docker+%F0%9F%90%B3;Infrastructure+as+Code+with+Terraform+%F0%9F%8F%97%EF%B8%8F;Full-Stack+Developer+%7C+React+%2B+Node.js+%F0%9F%9A%80;300%2B+DSA+Problems+Solved+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
@@ -266,13 +266,13 @@ Publicly hosted business website with **service listings, contact forms**, and f
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shubh45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/shubh_45_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://github.com/shubham221716"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-<a href="https://www.leetcode.com/shubh_45_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
-<a href="https://www.codechef.com/users/shubham221716"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>&nbsp;
-<a href="https://www.hackerrank.com/shubh_45_"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>&nbsp;
-<a href="https://shubh45.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://linkedin.com/in/shubh45" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/shubh_45_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://github.com/shubham221716" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="https://www.leetcode.com/shubh_45_" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
+<a href="https://www.codechef.com/users/shubham221716" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>&nbsp;
+<a href="https://www.hackerrank.com/shubh_45_" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>&nbsp;
+<a href="https://shubh45.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="mailto:skg2002007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -280,7 +280,14 @@ Publicly hosted business website with **service listings, contact forms**, and f
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=0e75b6&height=80" alt="Thanks" />
+
+<!-- Snake Contribution Animation — auto-generated daily by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 <!-- Footer Wave -->
