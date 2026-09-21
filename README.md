@@ -239,25 +239,23 @@ Publicly hosted business website with **service listings, contact forms**, and f
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham221716&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham221716&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham221716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=shubham221716&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=shubham221716&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shubham221716s-projects.vercel.app/api?username=shubham221716&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&rank_icon=github" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham221716&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shubham221716s-projects.vercel.app/api/top-langs?username=shubham221716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham221716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" />
+  </picture>
 </div>
 
 <br/>
@@ -311,18 +309,7 @@ Publicly hosted business website with **service listings, contact forms**, and f
 ---
 
 <div align="center">
-
-<!-- Snake Animation — requires GitHub Actions workflow (see .github/workflows/snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
-</picture>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubham221716&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&layout=compact" alt="Coding Activity" />
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=0e75b6&height=80" alt="Thanks" />
 </div>
 
 <!-- Footer Wave -->
