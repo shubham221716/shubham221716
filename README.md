@@ -248,20 +248,10 @@ Publicly hosted business website with **service listings, contact forms**, and f
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shubham221716s-projects.vercel.app/api?username=shubham221716&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&rank_icon=github" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham221716&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shubham221716s-projects.vercel.app/api/top-langs?username=shubham221716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham221716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" />
-  </picture>
-</div>
 
-<br/>
+![Shubham's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shubham221716&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&rank_icon=github)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubham221716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9)
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubham221716&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6" alt="Activity Graph" />
 </div>
 
 ---
