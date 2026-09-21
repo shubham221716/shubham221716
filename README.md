@@ -1,88 +1,212 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar Gupta</h1>
-<h3 align="center">DevOps Engineer · Cloud Infrastructure </h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham221716&label=Profile%20views&color=0e75b6&style=flat" alt="shubham221716" />
-</p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=220&section=header&text=Shubham%20Kumar%20Gupta&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Automation%20Enthusiast&descSize=18&descAlignY=55&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps%20%40%20TCS-0A66C2?style=for-the-badge&logo=tata&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Everything+with+CI%2FCD+%F0%9F%94%84;Containerizing+Apps+with+Docker+%F0%9F%90%B3;Infrastructure+as+Code+with+Terraform+%F0%9F%8F%97%EF%B8%8F;300%2B+DSA+Problems+Solved+%F0%9F%92%AA" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 👨‍💻 About me
+<img src="https://komarev.com/ghpvc/?username=shubham221716&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-- 🏢 Working as **Assistant System Engineer (DevOps)** at **Tata Consultancy Services (TCS)**
-- 🚀 Built CI/CD pipelines with Jenkins & GitHub — reduced deployment time by **40%**
-- ☁️ Provisioning AWS infra (EC2, S3, IAM, VPC) with **Terraform** — cut provisioning from 2hrs to **15 min**
-- 🐳 Containerizing apps with **Docker**, deployed on EC2 via **Nginx** reverse proxy
-- 🌱 Currently learning **Kubernetes**, **Ansible**, and GitOps workflows
-- 📫 Reach me at **skg2002007@gmail.com**
-- 🌐 Portfolio: [shubh45.netlify.app](https://shubh45.netlify.app/)
+<br/><br/>
+
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/shubh45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/shubh_45_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://shubh45.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="mailto:skg2002007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-**DevOps & Cloud**
+```yaml
+name: Shubham Kumar Gupta
+role: Assistant System Engineer (DevOps)
+company: Tata Consultancy Services (TCS)
+location: India
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+currently_learning: ["Kubernetes", "Ansible", "GitOps"]
+ask_me_about: ["DevOps", "CI/CD", "AWS", "Docker", "Terraform"]
 
-**Languages & Frameworks**
+fun_fact: "I automate things so I can be lazy efficiently 😄"
+```
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+<img align="right" alt="DevOps Animation" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
----
+- 🚀 **Reduced deployment time by 40%** with Jenkins & GitHub CI/CD pipelines
+- ☁️ **Cut provisioning from 2hrs → 15 min** using Terraform on AWS (EC2, S3, IAM, VPC)
+- 🐳 Containerized applications with **Docker** + **Nginx** reverse proxy on EC2
+- 💡 Solved **300+ DSA problems** on LeetCode
+- ⭐ **2-Star CodeChef** · Max Rating **1443** · Silver Badge
 
-### 🏆 Achievements
-
-- 💡 Solved **300+** problems on LeetCode — Arrays, Strings, Stacks, Queues, Hashing
-- ⭐ **2-Star** on CodeChef | Max Rating **1443** | Silver Badge | 30+ contests
-- 🎓 **AWS Academy Cloud Foundations** certified
-- 🐳 **Docker for DevOps** — Udemy
+<br clear="right"/>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham221716&show_icons=true&locale=en&hide_border=true" alt="shubham221716" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham221716&layout=compact&hide_border=true" alt="top langs" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham221716&hide_border=true" alt="streak" />
-</p>
+### ☁️ DevOps & Cloud
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+  <br><b>AWS</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+  <br><b>Docker</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="48" height="48" />
+  <br><b>Terraform</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" height="48" />
+  <br><b>Jenkins</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
+  <br><b>Nginx</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+  <br><b>Linux</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="K8s" width="48" height="48" />
+  <br><b>Kubernetes</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+  <br><b>Git</b>
+</td>
+</tr>
+</table>
+
+### 💻 Languages & Frameworks
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+  <br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+  <br><b>React</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+  <br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+  <br><b>Java</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+  <br><b>C++</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
+  <br><b>PHP</b>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+  <br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+  <br><b>MongoDB</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🤝 Connect with me
+## 🏆 GitHub Trophies
 
-<p align="left">
-  <a href="https://linkedin.com/in/shubh45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/shubh_45_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/shubh_45_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/shubham221716"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/shubh_45_"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://shubh45.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham221716&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubham221716&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham221716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham221716&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubham221716&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🎯 | Achievement | Details |
+|:---:|:---|:---|
+| 💡 | **LeetCode Problem Solver** | 300+ problems · Arrays, Strings, Stacks, Queues, Hashing |
+| ⭐ | **CodeChef 2-Star** | Max Rating 1443 · Silver Badge · 30+ contests |
+| 🎓 | **AWS Academy Cloud Foundations** | Certified |
+| 🐳 | **Docker for DevOps** | Udemy Certified |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shubh45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/shubh_45_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.leetcode.com/shubh_45_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
+<a href="https://www.codechef.com/users/shubham221716"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>&nbsp;
+<a href="https://www.hackerrank.com/shubh_45_"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>&nbsp;
+<a href="https://shubh45.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shubham221716/shubham221716/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=120&section=footer" />
